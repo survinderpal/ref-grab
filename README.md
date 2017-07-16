@@ -1,7 +1,8 @@
 # ref-grab
 
-Implementation for grabbing references from pdf documents.
+Depends on sci-hub api implementation
 
-Gives references in csv format.
+Downloads references from a pdf document automatically.
+
 
 
